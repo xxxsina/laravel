@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# 一
-## 说明
-laravel自学资料
+
+# 说明
+## laravel自学资料
 
 ## About Laravel
 
