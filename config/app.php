@@ -141,6 +141,8 @@ return [
 
         /*
          * Laravel Framework Service Providers...
+         * 所有服务提供者都是通过配置文件 config/app.php 中进行注册
+         * 要注册你自己的服务提供者，只需要将其追加到该数组中即可
          */
         Illuminate\Auth\AuthServiceProvider::class,
         Illuminate\Broadcasting\BroadcastServiceProvider::class,

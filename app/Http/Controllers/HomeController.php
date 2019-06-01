@@ -3,7 +3,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\Cache;   //门面 facades
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Redis;
 use Log;
